@@ -774,6 +774,7 @@ Indra Sonowal
 - [Davis-sang](https://github.com/davis-sang)
 - [Yaynshet Medhin](https://github.com/yayner2002)
 - [Shashank](https://github.com/shashankurs)
+- [Isaac Pontes](https://github.com/isaacpontes)
 - [Tanmay Gokhale](https://github.com/tanmay-droid-ui)
 - [Bilal Mohmand] (https://github.com/BilalMohmand58)
 - [Eric Shen] (https://github.com/eric-hcshen)
