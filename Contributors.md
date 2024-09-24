@@ -3172,6 +3172,7 @@ yejashi
 - [Nicholas Willson] (https://github.com/njdubzz/)
 - [Nonchalant Nerd](https://github.com/nonchalant-nerd)
 - [Jo Anna Mollman](https://github.com/jodi08)
+- [Yoshimitsu Tanaka](https://github.com/yoshimitsut)
 - [Subin Chaliyath](https://github.com/subinchaliyath)
 - [Kinzang Wangdi](https://github.com/geekbeats)
 - [Omkar Gunjal](https://github.com/omkarg1417)
